@@ -1,4 +1,4 @@
 ## 笔记
 
 ###  更新 [RunLoop](https://github.com/ChengwenY/Notes/wiki/RunLoop)
-###  ADD [Linux 常用命令](https://github.com/ChengwenY/Notes/wiki/Linux常用命令)
+###  ADD [Linux 常用命令](https://github.com/ChengwenY/Notes/wiki/Linux-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4)
